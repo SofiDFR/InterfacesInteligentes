@@ -49,6 +49,8 @@ public class Position : MonoBehaviour {
 1. Crea un array para almacenar todos los objetos (estos se añaden a través de la ventana del inspector)
 2. Recorre el array y para cada elemento, obtiene su posición con `obj.transform.position` y lo imprime por la consola
 
+![execution](execution.png)
+
 ### Producto final
 
 ![](ezgif.com-optimize.gif)
