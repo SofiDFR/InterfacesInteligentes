@@ -19,7 +19,7 @@
 Cada objeto contiene su propia etiqueta
 
 ![tag_chest](chest_tag.png)
-![tag_bomb_fire](bombfire_tag.png)
+![tag_bonfire](bonfire_tag.png)
 ![tag_tent](tent_tag.png)
 ![tag_player](player_tag.png)
 
