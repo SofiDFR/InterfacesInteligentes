@@ -18,10 +18,10 @@
 
 Cada objeto contiene su propia etiqueta
 
-![tag_chest](chest_tag.PNG)
-![tag_bomb_fire](bombfire_tag.PNG)
-![tag_tent](tent_tag.PNG)
-![tag_player](player_tag.PNG)
+![tag_chest](chest_tag.png)
+![tag_bomb_fire](bombfire_tag.png)
+![tag_tent](tent_tag.png)
+![tag_player](player_tag.png)
 
 ### Script
 
